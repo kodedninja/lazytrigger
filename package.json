@@ -1,0 +1,28 @@
+{
+  "name": "lazytrigger",
+  "version": "0.0.0",
+  "description": "Invisible intersection trigger component",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard",
+    "start": "nanoconstruct example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/kodedninja/lazytrigger"
+  },
+  "keywords": [
+    "choo"
+  ],
+  "author": "kodedninja",
+  "license": "MIT",
+  "dependencies": {
+    "bik": "^2.0.0",
+    "nanohtml": "^1.5.0",
+    "on-intersect": "^2.0.0"
+  },
+  "devDependencies": {
+    "nanoconstruct": "^0.3.0",
+    "standard": "^12.0.1"
+  }
+}
