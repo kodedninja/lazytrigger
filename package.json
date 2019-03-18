@@ -1,6 +1,6 @@
 {
   "name": "lazytrigger",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Notify when certain points of the DOM enter / leave the view",
   "main": "index.js",
   "scripts": {
