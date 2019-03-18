@@ -1,4 +1,8 @@
 # lazytrigger
+<a href="https://www.npmjs.com/package/lazytrigger">
+  <img src="https://img.shields.io/npm/v/lazytrigger.svg?style=flat-square" alt="NPM version" />
+</a>
+
 Notify when certain points of the DOM enter / leave the view using [on-intersect](https://github.com/yoshuawuyts/on-intersect).
 
 ## Installation
