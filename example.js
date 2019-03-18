@@ -14,7 +14,7 @@ module.exports = () => {
   `
 }
 
-function onEnter (id, e) {
+function onEnter (id) {
   console.log(id + ' entered')
 
   if (id === 'second') {
@@ -23,6 +23,6 @@ function onEnter (id, e) {
   }
 }
 
-function onLeave (id, e) {
+function onLeave (id) {
   console.log(id + ' left')
 }

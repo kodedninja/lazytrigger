@@ -1,7 +1,7 @@
 {
   "name": "lazytrigger",
   "version": "0.0.0",
-  "description": "Invisible intersection trigger component",
+  "description": "Notify when certain points of the DOM enter / leave the view",
   "main": "index.js",
   "scripts": {
     "test": "standard",
