@@ -17,9 +17,9 @@
   "author": "kodedninja",
   "license": "MIT",
   "dependencies": {
-    "bik": "^2.0.0",
     "nanohtml": "^1.5.0",
-    "on-intersect": "^2.0.0"
+    "on-intersect": "^2.0.0",
+    "on-load": "^4.0.1"
   },
   "devDependencies": {
     "nanoconstruct": "^0.3.0",
